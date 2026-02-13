@@ -50,7 +50,8 @@ The insights from this project support data-driven decision-making in banking an
 - 01_SQL_MySQL → SQL schema & queries  
 - 02_Excel_Dashboard → Excel dashboard files  
 - 03_PowerBI_Dashboard → Power BI reports  
-- 04_Tableau_Dashboard → Tableau dashboards  
+- 04_Tableau_Dashboard → Tableau dashboards
+- 05_Final_Presentation 
 
 
 ## Contact
